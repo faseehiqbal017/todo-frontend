@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.box h1{
+    font-size: 32px;
+    margin-bottom: 6px;
+}
+
+.box p{
+    font-size: 14px;
+    color: #555;
+}
+
+.btn {
+    display: block;
+    background-color:#1d635e;
+    width: 100%;
+    margin-bottom: 8px;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+}
